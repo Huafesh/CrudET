@@ -1,14 +1,34 @@
-# CrudET
+# 🖥️ CrudET - Sistema CRUD en Java
 
-Este repositorio contiene el código del proyecto **CrudET**, clasificado como **Proyecto de Código Fuente**.
+Una aplicación de escritorio (CRUD) para administración de datos, desarrollada en Java utilizando NetBeans IDE. Compila directamente a un archivo ejecutable JAR para entornos de escritorio.
 
-## Tecnologías Utilizadas
+---
 
-- JavaScript / Otros
+## 🚀 Características Principales
+
+* Interfaz gráfica de usuario clásica de Java Swing.
+* Operaciones completas de Crear, Leer, Actualizar y Eliminar (CRUD).
+* Gestión limpia de componentes mediante archivos de configuración XML de NetBeans.
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+* Java SE
+* Swing (GUI)
+* NetBeans Project Configuration
+* Ant Build System
+
+---
 
 ### Ejecución
 
-1. Explora el código fuente en este repositorio para comprender su funcionamiento.
+1. Asegúrate de tener instalado Java Runtime Environment (JRE/JDK 8 o superior).
+2. Ejecuta el archivo ejecutable compilado directamente desde tu terminal:
+   ```bash
+   java -jar dist/CrudET.jar
+   ```
+3. Si estás usando NetBeans, abre el proyecto y ejecuta el botón *Run*.
 
 ---
-*Generado automáticamente para la organización y catalogación de proyectos.*
+*Este repositorio ha sido configurado y catalogado automáticamente.*
